@@ -1,0 +1,59 @@
+7_ANPR_In_Smart_Cities_Review (PAID)
+https://doi.org/10.1016/j.cities.2022.103833
+
+12_ANPR_Histogram_Equalization (PAID)
+https://ieeexplore.ieee.org/document/10568583/
+
+15_License_Plate_Detection_CNN (PAID)
+https://ieeexplore.ieee.org/document/8322837/
+
+17_Knowledge_Distillation_Fast_CNN (PAID)
+https://ieeexplore.ieee.org/document/10309208/
+
+20_Efficient_Real_Time_ANPR_Gas_Stations (PAID)
+https://colab.ws/articles/10.1007%2F978-981-16-0730-1_20
+
+21_License_Plate_Detection_CNN_DOE (PAID)
+https://www.researchgate.net/publication/358839918_License_Plate_Detection_Using_Convolutional_Neural_Network_-_Back_to_The_Basic_with_Design_of_Experiments
+
+22_Study_Car_Plate_Recognition_YOLOv4 (PAID)
+https://ieeexplore.ieee.org/document/10730590/
+
+27_ANPRSmaC_Smart_City (PAID)
+https://ieeexplore.ieee.org/document/10830363/
+
+31_Systematic_Review_OCR_ANPR (PAID)
+https://ieeexplore.ieee.org/document/10131688/
+
+33_Real_Time_OCR_FPGA_ANPR (PAID)
+https://www.researchgate.net/publication/264563872_Real-time_optical_character_recognition_on_field_programmable_gate_array_for_automatic_number_plate_recognition_system
+
+38_License_Plate_Detection_Smart_Parking (PAID)
+https://www.springerprofessional.de/en/license-plate-detection-for-smart-parking-management/18784256
+
+40_Real_Time_Traffic_Density_Red_Light (RESTRICTED)
+https://ieeexplore.ieee.org/document/10169241/
+
+41_Automatic_Monitoring_Traffic_Violation (PAID)
+https://www.researchgate.net/publication/355281701_Application_of_Artificial_Neural_Network_to_ANPR_An_Overview
+
+42_Smart_Traffic_Control_Fog_Devices (RESTRICTED)
+https://www.researchgate.net/publication/351369171_Smart_traffic_control_Identifying_driving-violations_using_fog_devices_with_vehicular_cameras_in_smart_cities
+
+44_Traffic_Violation_Detection_Deep_Learning (RESTRICTED)
+https://www.researchgate.net/publication/391473338_Traffic_Violation_Detection_Using_Deep_Learning
+
+45_TVD_MRDL_MapReduce_Deep_Learning (PAID)
+https://doi.org/10.1007/s11042-020-09714-8
+
+46_Real_Time_Helmet_Detection_Number_Plate (RESTRICTED)
+https://www.researchgate.net/publication/379542926_Real-Time_Helmet_Detection_and_Number_Plate_Extraction_Using_Computer_Vision
+
+47_Efficient_Intelligent_Compliance_Traffic (RESTRICTED)
+https://ieeexplore.ieee.org/document/10581025/
+
+49_Deep_Learning_Traffic_Violation_PaddleOCR (RESTRICTED)
+https://ieeexplore.ieee.org/document/11035399/
+
+51_ANPR_System_Machine_Learning_Techniques (RESTRICTED)
+https://ieeexplore.ieee.org/document/10739064/
